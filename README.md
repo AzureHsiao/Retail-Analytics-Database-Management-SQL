@@ -19,6 +19,7 @@ This project was completed for a Database Management course and follows a full d
 
 The dataset includes store information, transactions, products, promotions, and customer attributes.
 
+<img width="640" height="685" alt="Screenshot 2025-11-30 at 8 45 56 PM" src="https://github.com/user-attachments/assets/3e033569-3b0e-4660-9986-1819441e762d" />
 
 
 ## Business Decisions Addressed
